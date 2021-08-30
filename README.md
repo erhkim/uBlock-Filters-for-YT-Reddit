@@ -14,4 +14,4 @@ To prevent exposure to low-quality, emotionally manipulative content without dis
 
 ## Installation:
 
-Go to uBlock settings -> My Filters then paste the contents of the text file. Should work on any browser that supports the uBlock extension. Note: only works on old reddit.
+Go to uBlock settings -> My Filters then paste the contents of the text file. Should work on any browser that supports the uBlock extension. Note: only works on old reddit (Which you should be using for your own sanity)
