@@ -6,6 +6,9 @@ www.reddit.com##ul.flat-list:nth-child(1) > li:nth-child(3)
 ||www.redditstatic.com/droparrowgray.gif$image
 www.reddit.com##.srdrop.dropdown
 
+www.reddit.com##.listing-chooser
+www.reddit.com##.footer-parent
+
 ! 2021-04-23 https://www.youtube.com
 www.youtube.com###page-manager > ytd-browse[page-subtype="home"]
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
