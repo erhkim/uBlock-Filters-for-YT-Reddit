@@ -11,3 +11,8 @@ Removes: Home screen content, Trending tabs
 ## Why:
 
 To prevent exposure to low-quality, emotionally manipulative content without disabling core functionality of those sites.
+
+
+## Installation:
+
+Go to uBlock settings -> My Filters then paste the contents of the text file.
