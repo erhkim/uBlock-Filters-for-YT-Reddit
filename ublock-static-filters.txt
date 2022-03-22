@@ -14,3 +14,6 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com###chat
 www.youtube.com###items > ytd-mini-guide-entry-renderer[aria-label="Home"]
 www.youtube.com###items > ytd-mini-guide-entry-renderer[aria-label="Explore"]
+
+www.youtube.com###endpoint[title="Shorts"]
+www.youtube.com###endpoint[title="Home"]
